@@ -21,9 +21,9 @@
 
 Descrição   | Instituição   | Ano | Status
 --------- | --------- | ------ | ------
-🖥️ Fundamentos em Desenvolvimento WEB | Gama Academy | 2022 | Concluido
+🖥️ Fundamentos em Desenvolvimento WEB | Gama Academy | 2022 | Concluído
 🖥️ Capacitação em Ciências de Dados | VAI Academy | 2022 | Em andamento
-🖥️ Desenvolvimento Full Stack | Oracle Next Education + Alura| 2022 | Em andamento
+🖥️ Desenvolvedor Full Stack | Oracle Next Education + Alura| 2022 | Em andamento
 
 
 
